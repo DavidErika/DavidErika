@@ -7,6 +7,13 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 
 ### 🛠️ Skills & Tools
+### 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 **Languages**: Python, SQL, and R  
 
 **Tools**: Jupyter, Tableau, Power BI, Git, Excel 
