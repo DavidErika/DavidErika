@@ -3,11 +3,25 @@
 I am a data-driven professional with **a strong passion for turning raw data into actionable insights that drive business growth and innovation**. 
 My expertise lies in building robust end-to-end data solutions, from data gathering and cleaning to visualization and predictive modeling.
 
+
 ### 🛠️ Skills & Tools
-**Languages**: Python, SQL, R  
+**Languages**: Python, SQL, and R  
 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Tools**: Jupyter, Tableau, Power BI, Git, Excel  
 **Areas**: EDA, Machine Learning, Data Visualization, A/B Testing
+
+
+### 🔥 Featured Projects
+- 📊 [Sales Analysis Dashboard](https://github.com/yourname/sales-dashboard)  
+  Interactive Power BI dashboard to explore trends across regions and categories.
+
+- 🤖 [Churn Prediction Model](https://github.com/yourname/churn-prediction)  
+  Machine learning model to predict customer churn with full EDA and feature engineering.
+
+  ### 🌱 Currently Learning
+  - Streamlit & Dash for interactive apps.
+  -  Time Series Forecasting.
+
 
 <!--
 **DavidErika/DavidErika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
