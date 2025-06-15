@@ -23,7 +23,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
   -  Time Series Forecasting.
  
     ### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/DavidTopos)
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/david-erika/])
 - 🌐 [Portfolio](https://yourportfolio.com)
 - 📧 Email: your.email@example.com
 
