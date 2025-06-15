@@ -7,7 +7,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 ### 🛠️ Skills & Tools
 **Languages**: Python, SQL, and R  
-**Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, pyTorch, TensorFlow.
+**Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, pyTorch, TensorFlow
 **Tools**: Jupyter, Tableau, Power BI, Git, Excel  
 **Areas**: Statistics, EDA, Machine Learning, Deep Learning, Artifitial Intelligence, Data Visualization,A/B Testing.
 
@@ -30,6 +30,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-erika/)
 - 🌐 [Portfolio](https://vine-cosmos-551.notion.site/David-Erika-Topos-Data-Analytics-Machine-Learning-Portfolio-140a7164562f80308e40f504c324a487)
 - 📧 Email: daviderika593@gmail.com
+
 
 
 <!--
