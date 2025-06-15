@@ -12,7 +12,6 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![Problem Solving](https://img.shields.io/badge/Skill-Problem%20Solving-blue?style=for-the-badge&logo=codewars)
 ![Analytical Thinking](https://img.shields.io/badge/Skill-Analytical%20Thinking-green?style=for-the-badge&logo=chartdotjs)
 ![Attention to Detail](https://img.shields.io/badge/Skill-Attention%20to%20Detail-yellow?style=for-the-badge&logo=inspect)
