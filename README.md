@@ -32,11 +32,11 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 
 ### 🔥 Featured Projects
-- 📊 [Sales Analysis Dashboard](https://github.com/yourname/sales-dashboard)  
-  Interactive Power BI dashboard to explore trends across regions and categories.
+- 📊 [Customer Engagement Analysis](https://vine-cosmos-551.notion.site/Customer-Engagement-Analysis-170a7164562f80ac9c69ee03f4ff7299)  
+Statistical analysis on low engagement students’ data to determine whether new features on the 365 company's website have led to an increase in student engagement, using statistical measures for evaluation.
 
-- 🤖 [Churn Prediction Model](https://github.com/yourname/churn-prediction)  
-  Machine learning model to predict customer churn with full EDA and feature engineering.
+- 🤖 [Environmental Impacts of Renewable Energy sources](https://vine-cosmos-551.notion.site/Environmental-Impacts-of-Renewable-Energy-163a7164562f80d6ae71ea7ccb0acbc3)  
+  Interactive Microsoft Excel dashboard to allow stakeholders to quickly identify & understand Environmental Impacts of different Renewable Sources of Energy.
 
   ---
 
