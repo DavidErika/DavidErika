@@ -7,8 +7,8 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 ### 🛠️ Skills & Tools
 **Languages**: Python, SQL, and R  
+**Tools**: Jupyter, Tableau, Power BI, Git, Excel 
 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, pyTorch, TensorFlow
-**Tools**: Jupyter, Tableau, Power BI, Git, Excel  
 **Areas**: Statistics, EDA, Machine Learning, Deep Learning, Artifitial Intelligence, Data Visualization,A/B Testing.
 
 
