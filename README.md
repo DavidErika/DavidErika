@@ -27,10 +27,10 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
   ---
 
-  ### 🌱 Currently Learning
-  - Streamlit & Dash for interactive apps.
-  -  Time Series Forecasting.
-  - Cloud skills: Ms Azure, AWS S3.
+### 🌱 Currently Learning
+- Streamlit & Dash for interactive apps.
+-  Time Series Forecasting.
+- Cloud skills: Ms Azure, AWS S3.
  
     ---
  
