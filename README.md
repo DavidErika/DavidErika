@@ -4,11 +4,13 @@ I am a data-driven professional with **a strong passion for turning raw data int
 My expertise lies in building robust end-to-end data solutions, from data gathering and cleaning to visualization and predictive modeling.
 
 
+
 ### 🛠️ Skills & Tools
 **Languages**: Python, SQL, and R  
-**Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, pyTorch, TensorFlow.
 **Tools**: Jupyter, Tableau, Power BI, Git, Excel  
-**Areas**: Statistics, EDA, Machine Learning, Data Visualization, A/B Testing
+**Areas**: Statistics, EDA, Machine Learning, Deep Learning, Artifitial Intelligence, Data Visualization,A/B Testing.
+
 
 
 ### 🔥 Featured Projects
@@ -21,11 +23,13 @@ My expertise lies in building robust end-to-end data solutions, from data gather
   ### 🌱 Currently Learning
   - Streamlit & Dash for interactive apps.
   -  Time Series Forecasting.
+  - Cloud skills: Ms Azure, AWS S3.
  
-    ### 📫 Let's Connect
+  
+  ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-erika/)
 - 🌐 [Portfolio](https://vine-cosmos-551.notion.site/David-Erika-Topos-Data-Analytics-Machine-Learning-Portfolio-140a7164562f80308e40f504c324a487)
-- 📧 Email: your.email@example.com
+- 📧 Email: daviderika593@gmail.com
 
 
 <!--
