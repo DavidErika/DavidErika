@@ -8,7 +8,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 **Languages**: Python, SQL, and R  
 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Tools**: Jupyter, Tableau, Power BI, Git, Excel  
-**Areas**: EDA, Machine Learning, Data Visualization, A/B Testing
+**Areas**: Statistics, EDA, Machine Learning, Data Visualization, A/B Testing
 
 
 ### 🔥 Featured Projects
@@ -21,6 +21,11 @@ My expertise lies in building robust end-to-end data solutions, from data gather
   ### 🌱 Currently Learning
   - Streamlit & Dash for interactive apps.
   -  Time Series Forecasting.
+ 
+    ### 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/DavidTopos)
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 📧 Email: your.email@example.com
 
 
 <!--
