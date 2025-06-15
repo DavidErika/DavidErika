@@ -3,6 +3,7 @@
 I am a data-driven professional with **a strong passion for turning raw data into actionable insights that drive business growth and innovation**. 
 My expertise lies in building robust end-to-end data solutions, from data gathering and cleaning to visualization and predictive modeling.
 
+---
 
 
 ### 🛠️ Skills & Tools
@@ -14,6 +15,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 **Areas**: Statistics, EDA, Machine Learning, Deep Learning, Artifitial Intelligence, Data Visualization,A/B Testing.
 
+---
 
 
 ### 🔥 Featured Projects
@@ -23,16 +25,22 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 - 🤖 [Churn Prediction Model](https://github.com/yourname/churn-prediction)  
   Machine learning model to predict customer churn with full EDA and feature engineering.
 
+  ---
+
   ### 🌱 Currently Learning
   - Streamlit & Dash for interactive apps.
   -  Time Series Forecasting.
   - Cloud skills: Ms Azure, AWS S3.
+ 
+    ---
  
   
   ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-erika/)
 - 🌐 [Portfolio](https://vine-cosmos-551.notion.site/David-Erika-Topos-Data-Analytics-Machine-Learning-Portfolio-140a7164562f80308e40f504c324a487)
 - 📧 Email: daviderika593@gmail.com
+
+  ---
 
 
 
