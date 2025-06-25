@@ -5,6 +5,12 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 ---
 
+  ### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-erika/)
+- 🌐 [Portfolio](https://vine-cosmos-551.notion.site/David-Erika-Topos-Data-Analytics-Machine-Learning-Portfolio-140a7164562f80308e40f504c324a487)
+- 📧 Email: daviderika593@gmail.com
+
+  ---
 
 ### 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,17 +52,6 @@ Statistical analysis on low engagement students’ data to determine whether new
 - Cloud skills: Ms Azure, AWS S3.
  
     ---
- 
-  
-  ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-erika/)
-- 🌐 [Portfolio](https://vine-cosmos-551.notion.site/David-Erika-Topos-Data-Analytics-Machine-Learning-Portfolio-140a7164562f80308e40f504c324a487)
-- 📧 Email: daviderika593@gmail.com
-
-  ---
-
-
-
 <!--
 **DavidErika/DavidErika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
