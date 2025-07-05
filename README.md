@@ -50,6 +50,7 @@ Statistical analysis on low engagement students’ data to determine whether new
 - Streamlit & Dash for interactive apps.
 -  Time Series Forecasting.
 - Cloud skills: Ms Azure, AWS S3.
+- MySQL mastery and creation of datapipelines.
  
     ---
 <!--
