@@ -38,7 +38,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 
 ### 🔥 Featured Projects
-- 📊 [ https://vine-cosmos-551.notion.site/Travel-Insurance-Performance-Intelligence-Dashboard-for-GlobeSure-Assurance-Ltd-28fa7164562f80e78bc8f5fab5cb017d]
+- 📊 [Travel Insurance Performance Intelligence Dashboard for GlobeSure Assurance Ltd.] (https://vine-cosmos-551.notion.site/Travel-Insurance-Performance-Intelligence-Dashboard-for-GlobeSure-Assurance-Ltd-28fa7164562f80e78bc8f5fab5cb017d)
   Analyzing product performance, revenue, claims, customer demographics, and distribution channels to support strategic decision-making. Key takeaways included identifying top-performing products, high-risk segments, efficient commission structures, and opportunities for portfolio optimization.
   
 - 📊 [Customer Engagement Analysis](https://vine-cosmos-551.notion.site/Customer-Engagement-Analysis-170a7164562f80ac9c69ee03f4ff7299)  
