@@ -38,20 +38,18 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 
 ### 🔥 Featured Projects
+
+- 💹 [E-commerce Customer Segmentation and Profiling] (https://vine-cosmos-551.notion.site/E-commerce-Customer-Segmentation-and-Profiling-2a2a7164562f809aa146cd64b0679f91)
+This project's core purpose was to maximize Customer Lifetime Value (CLV) by creating a data-driven segmentation framework from e-commerce behavioral data. The key takeaway is that marketing efforts must strategically pivot to focus on increasing Average Order Value (AOV) and Total Purchases, as statistical analysis confirmed these are the strongest financial drivers of long-term profitability.
+
 - 📊 [Travel Insurance Performance Intelligence Dashboard for GlobeSure Assurance Ltd.](https://vine-cosmos-551.notion.site/Travel-Insurance-Performance-Intelligence-Dashboard-for-GlobeSure-Assurance-Ltd-28fa7164562f80e78bc8f5fab5cb017d)
 Analyzing product performance, revenue, claims, customer demographics, and distribution channels to support strategic decision-making. Key takeaways included identifying top-performing products, high-risk segments, efficient commission structures, and opportunities for portfolio optimization.
-  
-- 📊 [Customer Engagement Analysis](https://vine-cosmos-551.notion.site/Customer-Engagement-Analysis-170a7164562f80ac9c69ee03f4ff7299)  
-Statistical analysis on low engagement students’ data to determine whether new features on the 365 company's website have led to an increase in student engagement, using statistical measures for evaluation.
-
-- 🤖 [Environmental Impacts of Renewable Energy sources](https://vine-cosmos-551.notion.site/Environmental-Impacts-of-Renewable-Energy-163a7164562f80d6ae71ea7ccb0acbc3)  
-  Interactive Microsoft Excel dashboard to allow stakeholders to quickly identify & understand Environmental Impacts of different Renewable Sources of Energy.
 
   ---
 
 ### 🌱 Currently Learning
 - Data Analysis Associate in Power BI
- 
+- AWS Data Engineering Associate
     ---
 <!--
 **DavidErika/DavidErika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
