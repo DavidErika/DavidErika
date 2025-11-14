@@ -39,7 +39,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 ### 🔥 Featured Projects
 
-- 💹 [E-commerce Customer Segmentation and Profiling] (https://vine-cosmos-551.notion.site/E-commerce-Customer-Segmentation-and-Profiling-2a2a7164562f809aa146cd64b0679f91)
+- 💹 [E-commerce Customer Segmentation and Profiling](https://vine-cosmos-551.notion.site/E-commerce-Customer-Segmentation-and-Profiling-2a2a7164562f809aa146cd64b0679f91)
 This project's core purpose was to maximize Customer Lifetime Value (CLV) by creating a data-driven segmentation framework from e-commerce behavioral data. The key takeaway is that marketing efforts must strategically pivot to focus on increasing Average Order Value (AOV) and Total Purchases, as statistical analysis confirmed these are the strongest financial drivers of long-term profitability.
 
 - 📊 [Travel Insurance Performance Intelligence Dashboard for GlobeSure Assurance Ltd.](https://vine-cosmos-551.notion.site/Travel-Insurance-Performance-Intelligence-Dashboard-for-GlobeSure-Assurance-Ltd-28fa7164562f80e78bc8f5fab5cb017d)
