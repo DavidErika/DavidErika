@@ -14,9 +14,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 ### 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Problem Solving](https://img.shields.io/badge/Skill-Problem%20Solving-blue?style=for-the-badge&logo=codewars)
 ![Analytical Thinking](https://img.shields.io/badge/Skill-Analytical%20Thinking-green?style=for-the-badge&logo=chartdotjs)
@@ -26,9 +24,9 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 ![Storytelling](https://img.shields.io/badge/Skill-Data%20Storytelling-purple?style=for-the-badge&logo=notion)
 
 
-**Languages**: Python, SQL, and R  
+**Languages**: Python, SQL
 
-**Tools**: Jupyter notebook, Tableau, Power BI, Git, Excel 
+**Tools**: Jupyter notebook, Power BI, Git, Excel 
 
 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, pyTorch, TensorFlow
 
@@ -49,7 +47,7 @@ Analyzing product performance, revenue, claims, customer demographics, and distr
 
 ### 🌱 Currently Learning
 - Data Analysis Associate in Power BI
-- AWS Data Engineering Associate
+- AWS Cloud Practitioner
     ---
 <!--
 **DavidErika/DavidErika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
