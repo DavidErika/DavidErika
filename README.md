@@ -30,7 +30,7 @@ My expertise lies in building robust end-to-end data solutions, from data gather
 
 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, pyTorch, TensorFlow
 
-**Areas**: Statistics, EDA, Machine Learning, Deep Learning, Artifitial Intelligence, Data Visualization,A/B Testing.
+**Areas**: Statistics, Descriptive analysis, Diagnostic analysis, Predictive analysis, Prescriptive analysis.
 
 ---
 
