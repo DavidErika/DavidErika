@@ -47,7 +47,7 @@ Analyzing product performance, revenue, claims, customer demographics, and distr
 
 ### 🌱 Currently Learning
 - Data Analysis Associate in Power BI
-- AWS Cloud Practitioner
+- AWS Cloud Practioner
     ---
 <!--
 **DavidErika/DavidErika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
